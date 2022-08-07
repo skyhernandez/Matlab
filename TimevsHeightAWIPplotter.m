@@ -13,7 +13,7 @@
 %
 %Program: AWIPSDisplayer.m
 %Project: AWIPS
-%Author: MK Hernandez
+%Author: Sky Hernandez
 %Date: 05/18/2012
 %**********************************************************************
 
