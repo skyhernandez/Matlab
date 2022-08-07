@@ -5,7 +5,7 @@
 %**********************************************************************
 %Program:  mappingIndeces.m
 %Project:  COSMIC CAPER
-%Author:   MK Hernandez
+%Author:   Sky Hernandez
 %Debugger: Douglas Hunt
 %Date:     6 July 2007
 %**********************************************************************
