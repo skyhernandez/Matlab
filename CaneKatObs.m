@@ -5,7 +5,7 @@
 %**********************************************************************
 %Program: CaneKatObs.m
 %Project: Kat
-%Author: MK Hernandez
+%Author: Sky Hernandez
 %Advisor: Dr. Brian Mapes & Derek Ortt
 %Date: 02/07/07
 %**********************************************************************
