@@ -8,7 +8,7 @@
 %----------------------------------------------------------------------------------
 %
 % @creator: Fuqing Zhang
-% @updated: Michael Kevin Hernandez
+% @updated: Skylar Hernandez
 % @version: 2.0.0
 % @date   : 23 Sept. 2009 
 %
